@@ -1,0 +1,10 @@
+* anansi
+
+Rate-limiting for concurrent function calls and login verification
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/Jach/anansi.git     |
+| commit  | a0d088c                                     |
+| systems | anansi                                      |
+|---------+---------------------------------------------|
+
