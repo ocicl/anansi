@@ -4,7 +4,7 @@ Rate-limiting for concurrent function calls and login verification
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/Jach/anansi.git     |
-| commit  | 7c3b136                                     |
+| commit  | daabb1f                                     |
 | systems | anansi                                      |
 |---------+---------------------------------------------|
 
